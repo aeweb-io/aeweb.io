@@ -34,9 +34,9 @@ custom solution for desktop and mobile." />
               websites for local businesses
             </h2>
             <h3 className='pt-5 text-lg'>
-              AE WEB is software provider based<br />
+              AE WEB is a software provider based<br />
               in north London creating<br />
-              custom solution for desktop and mobile.
+              custom solutions for desktop and mobile.
             </h3>
           </div>
           <BallAnimation className="basis-1/2 overflow-hidden -mt-6 w-11/12 top-36 absolute md:static opacity-50 md:opacity-100" />
@@ -51,7 +51,7 @@ custom solution for desktop and mobile." />
             <h2 className='text-4xl font-bold decoration-solid decoration-aeweb-green underline pt-14'>How AE WEB can help you</h2>
             <div className="md:flex flex-row items-center">
               <h3 className='py-5 text-lg basis-1/2'>
-                Do you want to grow your business, need help with your existing website or need some advice. ontact AE WEB for a free consultation.
+                Do you want to grow your business, need help with your existing website or just after some advice. Contact AE WEB for a free consultation.
               </h3>
             </div>
             <div className="md:grid grid-cols-3 gap-x-24 text-center">
@@ -66,7 +66,7 @@ custom solution for desktop and mobile." />
               <div className='flex flex-col items-center'>
                 <Laptop />
                 <p className='py-8'>Website development
-                  and API integration</p>
+                  and API integrations</p>
               </div>
               <div className='flex flex-col items-center'>
                 <Bug />
@@ -79,8 +79,7 @@ custom solution for desktop and mobile." />
           <div className="container mx-auto py-14 bg-grey-dark px-4">
             <h2 className='text-4xl font-bold text-center'>Contact</h2>
             <div>
-              <p>Please drop me a line to find out more.<br />
-                adam@aweb.io
+              <p>Email adam@aweb.io and let us know how we can help.
               </p>
             </div>
           </div>
